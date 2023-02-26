@@ -10,4 +10,4 @@ Man kan endre databasetilkoblingen i Web.config fil
 Man kan teste innlogging med følgende telefonnummer:
 95961922 og 69286928
 
-Om man ønsker å legge til flere brukere kan dette gjøres med å legge til flere brukere i 
+Om man ønsker å legge til flere brukere kan dette gjøres med å legge til flere brukere i databasen
